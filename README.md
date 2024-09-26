@@ -1,2 +1,12 @@
-- 👋 Hi, I’m @PiotrKarys
-- 👀 I’m interested in sports and gaming
+👋 Hey there! I'm Piotrek
+
+💻 Fullstack wannabe who fell in love with backend! I build apps that mix Node.js and React with the magic of MongoDB.
+
+🎯 Goals:
+
+Become a backend ninja.
+Dive into AI and create something that outsmarts me. 😉
+
+🌱 Learning:
+
+Python – because AI won’t code itself!
