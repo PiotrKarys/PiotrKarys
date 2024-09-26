@@ -6,7 +6,3 @@
 
 Become a backend ninja.
 Dive into AI and create something that outsmarts me. 😉
-
-🌱 Learning:
-
-Python – because AI won’t code itself!
