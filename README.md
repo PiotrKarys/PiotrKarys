@@ -1,6 +1,4 @@
-💻 Fullstack wannabe who fell in love with backend! I build apps that mix Node.js and React with the magic of MongoDB.
+💻 Fullstack wannabe who fell in love with backend!
 
 🎯 Goals:
-
 Become a backend ninja.
-Dive into AI and create something that outsmarts me. 😉
